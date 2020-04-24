@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="P.R.O.J.E.C.T.Z.geometry.Box" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCAAAAAAAAAAAAACQEAEKAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>geometry\Box.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P.R.O.J.E.C.T.Z.geometry.Well" Collapsed="true">
+    <Position X="1.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIBgIAwSIEgEIgBgWAAAIAACAAAgAAAgECgCAA=</HashCode>
+      <FileName>geometry\Well.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P.R.O.J.E.C.T.Z.geometry.Bucket" Collapsed="true">
+    <Position X="4.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAARAAAAAAAAAAAAAgAAAAAABAA=</HashCode>
+      <FileName>geometry\Bucket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P.R.O.J.E.C.T.Z.geometry.Cylinder" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CEAMAAAAAAIAAABAAKAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>geometry\Cylinder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P.R.O.J.E.C.T.Z.geometry.Face" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACCABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>geometry\Face.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P.R.O.J.E.C.T.Z.geometry.HalfSphere" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAMAAAAAAAAAABAAIAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>geometry\HalfSphere.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P.R.O.J.E.C.T.Z.geometry.Plate" Collapsed="true">
+    <Position X="6.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAQACAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>geometry\Plate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P.R.O.J.E.C.T.Z.geometry.Point3D" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAIAAAABAAAAAAAIAAABgAWADAAA=</HashCode>
+      <FileName>geometry\Point3D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P.R.O.J.E.C.T.Z.geometry.Point3DSpherical" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AFACAAAAACACAAIAAAAAAAAAAAQAAEAAAAABAAACAAA=</HashCode>
+      <FileName>geometry\Point3DSpherical.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P.R.O.J.E.C.T.Z.geometry.Primitive" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAQAAAAAAAAAAAAAAACAAAAACAAACAA=</HashCode>
+      <FileName>geometry\Primitive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P.R.O.J.E.C.T.Z.geometry.Secret" Collapsed="true">
+    <Position X="3" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAIAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQIA=</HashCode>
+      <FileName>geometry\Secret.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P.R.O.J.E.C.T.Z.geometry.Sphere" Collapsed="true">
+    <Position X="9.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CEAMAAAAAAIAAABAAIAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>geometry\Sphere.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P.R.O.J.E.C.T.Z.geometry.Tube" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAEAIAABAIJAABAALAAAAIAAAAAAAAACAAAABAAAcA=</HashCode>
+      <FileName>geometry\Tube.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P.R.O.J.E.C.T.Z.Group" Collapsed="true">
+    <Position X="3.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAANAAAAAAAABAAAIAACAADAAEABAAAAAYAgBAAgA=</HashCode>
+      <FileName>Group.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P.R.O.J.E.C.T.Z.SceneObject" Collapsed="true">
+    <Position X="4.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAAQAgAAAAAAAAAAAAAAAgCAgAEAAAABAAQCABACAA=</HashCode>
+      <FileName>SceneObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P.R.O.J.E.C.T.Z.mathLib.Array2D" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAEAIAAAAgAAAEABAAAAAAAAAAEAAAAQAAAAAgA=</HashCode>
+      <FileName>mathLib\Array2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P.R.O.J.E.C.T.Z.mathLib.Matrix" Collapsed="true">
+    <Position X="9.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAsAAEAAoAEEAAAAACIABAAAAABAQAAAAAA=</HashCode>
+      <FileName>mathLib\Matrix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P.R.O.J.E.C.T.Z.mathLib.Vector3D" Collapsed="true">
+    <Position X="9.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQEAAAYAUIAABAAAIAEIABgABgAQDABwA=</HashCode>
+      <FileName>mathLib\Vector3D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P.R.O.J.E.C.T.Z.Scene" Collapsed="true">
+    <Position X="3" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wAAAAEgAAgAAAAABQAAxQAAABQJhIACQAUAAEAAAAAA=</HashCode>
+      <FileName>Scene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P.R.O.J.E.C.T.Z.Camera" Collapsed="true">
+    <Position X="1.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgYgBCAIAABgAAAhARwgIABABgCEoBAkAhoAQAggEgA=</HashCode>
+      <FileName>Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

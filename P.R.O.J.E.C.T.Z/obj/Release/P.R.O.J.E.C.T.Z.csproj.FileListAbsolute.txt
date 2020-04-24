@@ -1,0 +1,10 @@
+C:\Users\kapko\YandexDisk\Универ\6\Графика\P.R.O.J.E.C.T.Z\P.R.O.J.E.C.T.Z\bin\Release\P.R.O.J.E.C.T.Z.exe.config
+C:\Users\kapko\YandexDisk\Универ\6\Графика\P.R.O.J.E.C.T.Z\P.R.O.J.E.C.T.Z\bin\Release\P.R.O.J.E.C.T.Z.exe
+C:\Users\kapko\YandexDisk\Универ\6\Графика\P.R.O.J.E.C.T.Z\P.R.O.J.E.C.T.Z\bin\Release\P.R.O.J.E.C.T.Z.pdb
+C:\Users\kapko\YandexDisk\Универ\6\Графика\P.R.O.J.E.C.T.Z\P.R.O.J.E.C.T.Z\obj\Release\P.R.O.J.E.C.T.Z.csprojAssemblyReference.cache
+C:\Users\kapko\YandexDisk\Универ\6\Графика\P.R.O.J.E.C.T.Z\P.R.O.J.E.C.T.Z\obj\Release\P.R.O.J.E.C.T.Z.Form1.resources
+C:\Users\kapko\YandexDisk\Универ\6\Графика\P.R.O.J.E.C.T.Z\P.R.O.J.E.C.T.Z\obj\Release\P.R.O.J.E.C.T.Z.Properties.Resources.resources
+C:\Users\kapko\YandexDisk\Универ\6\Графика\P.R.O.J.E.C.T.Z\P.R.O.J.E.C.T.Z\obj\Release\P.R.O.J.E.C.T.Z.csproj.GenerateResource.cache
+C:\Users\kapko\YandexDisk\Универ\6\Графика\P.R.O.J.E.C.T.Z\P.R.O.J.E.C.T.Z\obj\Release\P.R.O.J.E.C.T.Z.csproj.CoreCompileInputs.cache
+C:\Users\kapko\YandexDisk\Универ\6\Графика\P.R.O.J.E.C.T.Z\P.R.O.J.E.C.T.Z\obj\Release\P.R.O.J.E.C.T.Z.exe
+C:\Users\kapko\YandexDisk\Универ\6\Графика\P.R.O.J.E.C.T.Z\P.R.O.J.E.C.T.Z\obj\Release\P.R.O.J.E.C.T.Z.pdb

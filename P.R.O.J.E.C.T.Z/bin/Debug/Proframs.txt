@@ -1,0 +1,428 @@
+<soft> Caption: NUnitForms v2.0 alpha5 ; InstallDate: 20191021</soft>
+<soft> Caption: FARO LS 1.1.700.0 (64bit) ; InstallDate: 20190213</soft>
+<soft> Caption: Viber ; InstallDate: 20190223</soft>
+<soft> Caption: Autodesk Genuine Service ; InstallDate: 20190213</soft>
+<soft> Caption: Autodesk App Manager 2016-2019 ; InstallDate: 20190213</soft>
+<soft> Caption: Голосовой помощник Алиса ; InstallDate: 20190914</soft>
+<soft> Caption: Рекомендованные приложения Autodesk 2016-2019 ; InstallDate: 20190213</soft>
+<soft> Caption: Microsoft Office 32-bit Components 2013 ; InstallDate: 20200416</soft>
+<soft> Caption: Microsoft Office Shared 32-bit MUI (Russian) 2013 ; InstallDate: 20200416</soft>
+<soft> Caption: Microsoft Office OSM MUI (Russian) 2013 ; InstallDate: 20191108</soft>
+<soft> Caption: Microsoft Project MUI (Russian) 2013 ; InstallDate: 20200416</soft>
+<soft> Caption: Microsoft Project Professional 2013 ; InstallDate: 20200416</soft>
+<soft> Caption: Microsoft Office Proofing (Russian) 2013 ; InstallDate: 20191108</soft>
+<soft> Caption: Microsoft Office Shared MUI (Russian) 2013 ; InstallDate: 20200416</soft>
+<soft> Caption: Засоби перевірки правопису Microsoft Office 2013 – українська мова ; InstallDate: 20191108</soft>
+<soft> Caption: Microsoft Office Korrekturhilfen 2013 - Deutsch ; InstallDate: 20191108</soft>
+<soft> Caption: Microsoft Office Proofing Tools 2013 - English ; InstallDate: 20191108</soft>
+<soft> Caption: Средства проверки правописания Microsoft Office 2013 — русский ; InstallDate: 20191108</soft>
+<soft> Caption: Microsoft Access database engine 2016 (English) ; InstallDate: 20200301</soft>
+<soft> Caption: Office 16 Click-to-Run Extensibility Component ; InstallDate: 20200419</soft>
+<soft> Caption: Office 16 Click-to-Run Localization Component ; InstallDate: 20200419</soft>
+<soft> Caption: Office 16 Click-to-Run Localization Component ; InstallDate: 20200419</soft>
+<soft> Caption: Office 16 Click-to-Run Licensing Component ; InstallDate: 20200419</soft>
+<soft> Caption: Microsoft .NET Framework 4.5.1 Multi-Targeting Pack ; InstallDate: 20190215</soft>
+<soft> Caption: Пакет нацеливания Microsoft .NET Framework 4.7.2 (Русский) ; InstallDate: 20190215</soft>
+<soft> Caption: Autodesk ReCap ; InstallDate: 20190213</soft>
+<soft> Caption: Autodesk License Service (x64) - 7.1.4 ; InstallDate: 20190213</soft>
+<soft> Caption: Universal CRT Headers Libraries and Sources ; InstallDate: 20190507</soft>
+<soft> Caption: MSI Development Tools ; InstallDate: 20190326</soft>
+<soft> Caption: Windows SDK for Windows Store Apps DirectX x86 Remote ; InstallDate: 20190326</soft>
+<soft> Caption: Microsoft Portable Library Multi-Targeting Pack Language Pack - rus ; InstallDate: 20190404</soft>
+<soft> Caption: WinRT Intellisense Mobile - en-us ; InstallDate: 20190326</soft>
+<soft> Caption: SQL Server 2016 Master Data Services ; InstallDate: 20190404</soft>
+<soft> Caption: Языковой пакет для языковой поддержки набора средств Microsoft Visual Studio Tools для работы с приложениями 2015 — RUS ; InstallDate: 20190404</soft>
+<soft> Caption: Windows SDK EULA ; InstallDate: 20190326</soft>
+<soft> Caption: Управляющие объекты Microsoft SQL Server 2014  ; InstallDate: 20190404</soft>
+<soft> Caption: Пакет SDK Microsoft .NET Framework 4.6.1 (Русский) ; InstallDate: 20190404</soft>
+<soft> Caption: Windows SDK Redistributables ; InstallDate: 20190507</soft>
+<soft> Caption: SQL Server 2017 Connection Info ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft .NET Framework 4.6.1 SDK ; InstallDate: 20190404</soft>
+<soft> Caption: MSI Development Tools ; InstallDate: 20190507</soft>
+<soft> Caption: Microsoft ASP.NET Diagnostic Pack for Visual Studio ; InstallDate: 20190215</soft>
+<soft> Caption: WinRT Intellisense PPI - en-us ; InstallDate: 20190326</soft>
+<soft> Caption: Microsoft XNA Framework Redistributable 4.0 ; InstallDate: 20190506</soft>
+<soft> Caption: Windows SDK Desktop Tools x86 ; InstallDate: 20190507</soft>
+<soft> Caption: Autodesk ReCap Photo ; InstallDate: 20190213</soft>
+<soft> Caption: Microsoft Visual C++ 2005 Redistributable - x86 8.0.50727.4053 False ; InstallDate: 20190217</soft>
+<soft> Caption: VS JIT Debugger ; InstallDate: 20190215</soft>
+<soft> Caption: Autodesk Revit Interoperability for 3ds Max 2019 ; InstallDate: 20190214</soft>
+<soft> Caption: SQL Server 2017 Common Files ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft .NET Framework 4.5 Multi-Targeting Pack ; InstallDate: 20190215</soft>
+<soft> Caption: Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148 False ; InstallDate: 20190217</soft>
+<soft> Caption: SQL Server 2017 Batch Parser ; InstallDate: 20190404</soft>
+<soft> Caption: Windows SDK Desktop Tools x64 ; InstallDate: 20190507</soft>
+<soft> Caption: WPTx64 ; InstallDate: 20190507</soft>
+<soft> Caption: Windows SDK Desktop Headers arm ; InstallDate: 20190326</soft>
+<soft> Caption: Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40660 False ; InstallDate: 20190217</soft>
+<soft> Caption: WinRT Intellisense PPI - en-us ; InstallDate: 20190507</soft>
+<soft> Caption: WinRT Intellisense UAP - Other Languages ; InstallDate: 20190507</soft>
+<soft> Caption: Microsoft Visual C++ 2008 Redistributable - x64 9.0.21022 False ; InstallDate: 20190217</soft>
+<soft> Caption: Microsoft Build Tools 14.0 (x86) ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft Visual C++ 2010 Redistributable - x64 10.0.40219 ; InstallDate: 20191108</soft>
+<soft> Caption: Microsoft Web Deploy 4.0 ; InstallDate: 20190215</soft>
+<soft> Caption: Autodesk Advanced Material Library Base Resolution Image Library 2019 ; InstallDate: 20190214</soft>
+<soft> Caption: Windows SDK for Windows Store Managed Apps Libs ; InstallDate: 20190326</soft>
+<soft> Caption: Microsoft Visual C++ 2005 Redistributable - x64 8.0.61000 ; InstallDate: 20190217</soft>
+<soft> Caption: Пакет многоплатформенного нацеливания Microsoft .NET Framework 4.5.1 (Русский) ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664 ; InstallDate: 20190217</soft>
+<soft> Caption: Windows SDK ; InstallDate: 20190507</soft>
+<soft> Caption: Microsoft .NET Framework 4.7.2 SDK ; InstallDate: 20190215</soft>
+<soft> Caption: Microsoft Visual C++ 2010 Redistributable - x86 10.0.40219 ; InstallDate: 20191108</soft>
+<soft> Caption: Microsoft Visual C++ 2008 Redistributable - x64 9.0.21022.0 False ; InstallDate: 20190217</soft>
+<soft> Caption: vs_BlendMsi ; InstallDate: 20190215</soft>
+<soft> Caption: Windows SDK for Windows Store Apps Contracts ; InstallDate: 20190507</soft>
+<soft> Caption: Windows SDK Signing Tools ; InstallDate: 20190507</soft>
+<soft> Caption: Windows IoT Extension SDK ; InstallDate: 20190326</soft>
+<soft> Caption: Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005 False ; InstallDate: 20190217</soft>
+<soft> Caption: Windows SDK EULA ; InstallDate: 20190507</soft>
+<soft> Caption: Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005 False ; InstallDate: 20190217</soft>
+<soft> Caption: SQL Server 2017 Shared Management Objects Extensions ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft SQL Server 2017 Setup (English) ; InstallDate: 20191111</soft>
+<soft> Caption: IntelliTraceProfilerProxy ; InstallDate: 20190215</soft>
+<soft> Caption: Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022.0 False ; InstallDate: 20190217</soft>
+<soft> Caption: vs_clickoncebootstrappermsires ; InstallDate: 20190215</soft>
+<soft> Caption: vs_minshellmsires ; InstallDate: 20190215</soft>
+<soft> Caption: vs_FileTracker_Singleton ; InstallDate: 20190215</soft>
+<soft> Caption: Microsoft .NET Framework 4.8 Targeting Pack ; InstallDate: 20190507</soft>
+<soft> Caption: Node.js ; InstallDate: 20190306</soft>
+<soft> Caption: Windows SDK ARM Desktop Tools ; InstallDate: 20190507</soft>
+<soft> Caption: vs_tipsmsi ; InstallDate: 20190215</soft>
+<soft> Caption: Universal CRT Headers Libraries and Sources ; InstallDate: 20190326</soft>
+<soft> Caption: Microsoft Visual C++ 2008 Redistributable - x64 9.0.21022.218 False ; InstallDate: 20190217</soft>
+<soft> Caption: Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.50727 False ; InstallDate: 20190217</soft>
+<soft> Caption: SQL Server Integration Services 2016 ; InstallDate: 20190404</soft>
+<soft> Caption: Windows Mobile Extension SDK Contracts ; InstallDate: 20190507</soft>
+<soft> Caption: Пакет многоплатформенного нацеливания Microsoft .NET Framework 4.5.2 (Русский) ; InstallDate: 20190404</soft>
+<soft> Caption: WinRT Intellisense PPI - Other Languages ; InstallDate: 20190507</soft>
+<soft> Caption: Microsoft Visual C++ 2013 x86 Debug Runtime - 12.0.21005 ; InstallDate: 20190404</soft>
+<soft> Caption: Windows SDK for Windows Store Apps Metadata ; InstallDate: 20190507</soft>
+<soft> Caption: WinAppDeploy ; InstallDate: 20190326</soft>
+<soft> Caption: WinRT Intellisense Desktop - en-us ; InstallDate: 20190507</soft>
+<soft> Caption: SQL Server 2017 DMF ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft SQL Server 2012 Analysis Management Objects  ; InstallDate: 20190404</soft>
+<soft> Caption: Universal CRT Tools x64 ; InstallDate: 20190507</soft>
+<soft> Caption: vs_minshellmsi ; InstallDate: 20190404</soft>
+<soft> Caption: Universal CRT Extension SDK ; InstallDate: 20190326</soft>
+<soft> Caption: Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4048 False ; InstallDate: 20190217</soft>
+<soft> Caption: Windows SDK DirectX x86 Remote ; InstallDate: 20190507</soft>
+<soft> Caption: Microsoft Visual Studio Services Hub ; InstallDate: 20190404</soft>
+<soft> Caption: Windows SDK for Windows Store Apps Contracts ; InstallDate: 20190326</soft>
+<soft> Caption: Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.50727 False ; InstallDate: 20190217</soft>
+<soft> Caption: WinRT Intellisense IoT - en-us ; InstallDate: 20190326</soft>
+<soft> Caption: Файлы поддержки программы установки Microsoft SQL Server 2008  ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.60610 False ; InstallDate: 20190217</soft>
+<soft> Caption: Windows IoT Extension SDK Contracts ; InstallDate: 20190326</soft>
+<soft> Caption: Microsoft .NET Core Runtime - 2.1.11 (x64) ; InstallDate: 20190516</soft>
+<soft> Caption: Microsoft Visual C++ 2005 Redistributable - x86 8.0.59193 False ; InstallDate: 20190217</soft>
+<soft> Caption: Microsoft ASP.NET Core Module for IIS Express ; InstallDate: 20190215</soft>
+<soft> Caption: Autodesk Civil View for 3ds Max 2019 64-bit ; InstallDate: 20190214</soft>
+<soft> Caption: Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40649 False ; InstallDate: 20190217</soft>
+<soft> Caption: Windows SDK Desktop Tools x86 ; InstallDate: 20190326</soft>
+<soft> Caption: SDK ARM Redistributables ; InstallDate: 20190507</soft>
+<soft> Caption: Microsoft Visual C++ 2005 Redistributable - x86 8.0.57103 False ; InstallDate: 20190217</soft>
+<soft> Caption: SQL Server 2017 Shared Management Objects ; InstallDate: 20190404</soft>
+<soft> Caption: Intel® Optane™ Pinning Explorer Extensions ; InstallDate: 20190531</soft>
+<soft> Caption: Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.60610 False ; InstallDate: 20190217</soft>
+<soft> Caption: Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664 ; InstallDate: 20190217</soft>
+<soft> Caption: Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40660 False ; InstallDate: 20190217</soft>
+<soft> Caption: vs_communitymsires ; InstallDate: 20190215</soft>
+<soft> Caption: Microsoft Visual Basic for Applications 7.1 (x64) ; InstallDate: 20200301</soft>
+<soft> Caption: Microsoft Visual Studio Tools for Applications 2015 Language Support Finalizer ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft SQL Server 2014 Express LocalDB  ; InstallDate: 20190214</soft>
+<soft> Caption: Microsoft .NET Core Host - 2.1.7 (x64) ; InstallDate: 20190215</soft>
+<soft> Caption: vs_Graphics_Singletonx64 ; InstallDate: 20190326</soft>
+<soft> Caption: Microsoft Visual C++ 2005 Redistributable - x64 8.0.57102 False ; InstallDate: 20190217</soft>
+<soft> Caption: WinRT Intellisense UAP - Other Languages ; InstallDate: 20190326</soft>
+<soft> Caption: Windows Mobile Extension SDK ; InstallDate: 20190507</soft>
+<soft> Caption: vs_devenvmsi ; InstallDate: 20190215</soft>
+<soft> Caption: SQL Server 2017 Shared Management Objects Extensions ; InstallDate: 20190404</soft>
+<soft> Caption: WinRT Intellisense IoT - Other Languages ; InstallDate: 20190507</soft>
+<soft> Caption: SQL Server 2017 Shared Management Objects ; InstallDate: 20190404</soft>
+<soft> Caption: PTC Diagnostic Tools ; InstallDate: 20191020</soft>
+<soft> Caption: Windows SDK Desktop Tools arm64 ; InstallDate: 20190326</soft>
+<soft> Caption: Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40649 False ; InstallDate: 20190217</soft>
+<soft> Caption: SQL Server 2017 Database Engine Shared ; InstallDate: 20191111</soft>
+<soft> Caption: Microsoft Visual Studio 2010 Tools for Office Runtime (x64) ; InstallDate: 20191108</soft>
+<soft> Caption: Microsoft Visual C++ 2005 Redistributable - x64 8.0.51011 False ; InstallDate: 20190217</soft>
+<soft> Caption: Пакет SDK Microsoft .NET Framework 4.5.1 (Русский) ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.51106 False ; InstallDate: 20190217</soft>
+<soft> Caption: Java 8 Update 211 ; InstallDate: 20190506</soft>
+<soft> Caption: Java 8 Update 211 (64-bit) ; InstallDate: 20190617</soft>
+<soft> Caption: Java 8 Update 212 (64-bit) ; InstallDate: 20190626</soft>
+<soft> Caption: Microsoft Visual Studio 2015 Shell (Minimum) Interop Assemblies ; InstallDate: 20190404</soft>
+<soft> Caption: SDK Debuggers ; InstallDate: 20190507</soft>
+<soft> Caption: Java SE Development Kit 8 Update 211 (64-bit) ; InstallDate: 20190624</soft>
+<soft> Caption: Java SE Development Kit 8 Update 212 (64-bit) ; InstallDate: 20190626</soft>
+<soft> Caption: Autodesk Single Sign On Component ; InstallDate: 20190214</soft>
+<soft> Caption: VS Script Debugging Common ; InstallDate: 20190215</soft>
+<soft> Caption: Microsoft Visual C++ 2019 X64 Debug Runtime - 14.20.27508 ; InstallDate: 20190902</soft>
+<soft> Caption: Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40649 False ; InstallDate: 20190217</soft>
+<soft> Caption: Модуль записи VSS (Майкрософт) для SQL Server 2017 ; InstallDate: 20191111</soft>
+<soft> Caption: Universal CRT Redistributable ; InstallDate: 20190326</soft>
+<soft> Caption: MAXtoA for 3ds Max 2019 ; InstallDate: 20190214</soft>
+<soft> Caption: vs_minshellinteropmsi ; InstallDate: 20190215</soft>
+<soft> Caption: Windows SDK Facade Windows WinMD Versioned ; InstallDate: 20190326</soft>
+<soft> Caption: vs_filehandler_x86 ; InstallDate: 20190516</soft>
+<soft> Caption: PTC Mathcad Prime 5.0.0.0 ; InstallDate: 20191020</soft>
+<soft> Caption: Autodesk Material Library Medium Resolution Image Library 2019 ; InstallDate: 20190214</soft>
+<soft> Caption: Microsoft Visual Studio 2015 Shell (Minimum) ; InstallDate: 20190404</soft>
+<soft> Caption: Службы языка Roslyn - x86 ; InstallDate: 20190404</soft>
+<soft> Caption: Пакет SDK для Microsoft .NET Framework 4.7.2 (Русский) ; InstallDate: 20190215</soft>
+<soft> Caption: Windows Desktop Extension SDK Contracts ; InstallDate: 20190326</soft>
+<soft> Caption: Windows SDK Desktop Libs arm64 ; InstallDate: 20190326</soft>
+<soft> Caption: Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.60610 False ; InstallDate: 20190217</soft>
+<soft> Caption: Windows SDK Facade Windows WinMD Versioned ; InstallDate: 20190507</soft>
+<soft> Caption: Windows Phone SDK 8.0 Assemblies for Visual Studio 2019 ; InstallDate: 20190215</soft>
+<soft> Caption: Windows Desktop Extension SDK ; InstallDate: 20190326</soft>
+<soft> Caption: CA AllFusion Process Modeler r7 ; InstallDate: 20200218</soft>
+<soft> Caption: SQL Server 2017 Connection Info ; InstallDate: 20190404</soft>
+<soft> Caption: Mathcad 15 M050 ; InstallDate: 20191020</soft>
+<soft> Caption: Windows Team Extension SDK ; InstallDate: 20190326</soft>
+<soft> Caption: Intel(R) Rapid Storage Technology ; InstallDate: 20190214</soft>
+<soft> Caption: Службы SQL Server Integration Services 2012 ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft Visual C++ 2017 X64 Minimum Runtime - 14.20.27323 ; InstallDate: 20190326</soft>
+<soft> Caption: SQL Server 2017 SQL Diagnostics ; InstallDate: 20190404</soft>
+<soft> Caption: Intel® PROSet/Wireless WiFi Software ; InstallDate: 20190531</soft>
+<soft> Caption: Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.0 False ; InstallDate: 20190217</soft>
+<soft> Caption: SQL Server 2017 XEvent ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005 False ; InstallDate: 20190217</soft>
+<soft> Caption: WinRT Intellisense UAP - en-us ; InstallDate: 20190326</soft>
+<soft> Caption: icecap_collectionresources ; InstallDate: 20190516</soft>
+<soft> Caption:  Tools for .Net 3.5 ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft .NET Core Host - 2.1.11 (x64) ; InstallDate: 20190516</soft>
+<soft> Caption: Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161 ; InstallDate: 20190217</soft>
+<soft> Caption: Adobe Acrobat DC ; InstallDate: 20200319</soft>
+<soft> Caption: Adobe Refresh Manager ; InstallDate: 20200316</soft>
+<soft> Caption: SDK ARM Additions ; InstallDate: 20190507</soft>
+<soft> Caption: Smart View ; InstallDate: 20200107</soft>
+<soft> Caption: Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.51106 False ; InstallDate: 20190217</soft>
+<soft> Caption: Universal CRT Tools x86 ; InstallDate: 20190507</soft>
+<soft> Caption: Microsoft Azure Libraries for .NET – v2.9 ; InstallDate: 20190215</soft>
+<soft> Caption: SQL Server Integration Services 2014 ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft Visual Studio Team Foundation Server 2017 Update 9 Office Integration (x64) ; InstallDate: 20190404</soft>
+<soft> Caption: SQL Server Integration Services — одиночный элемент ; InstallDate: 20190404</soft>
+<soft> Caption: Windows IoT Extension SDK Contracts ; InstallDate: 20190507</soft>
+<soft> Caption: Браузер для SQL Server 2017 ; InstallDate: 20191111</soft>
+<soft> Caption: Microsoft .NET Core SDK 2.1.600 - preview (x64) ; InstallDate: 20190215</soft>
+<soft> Caption: Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.5570 False ; InstallDate: 20190217</soft>
+<soft> Caption: Microsoft SQL Server 2012 Native Client  ; InstallDate: 20190215</soft>
+<soft> Caption: Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161 ; InstallDate: 20190217</soft>
+<soft> Caption: Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005 False ; InstallDate: 20190217</soft>
+<soft> Caption: Windows SDK for Windows Store Apps Tools ; InstallDate: 20190507</soft>
+<soft> Caption: Windows SDK for Windows Store Managed Apps Libs ; InstallDate: 20190507</soft>
+<soft> Caption: Microsoft Build Tools Language Resources 14.0 (amd64) ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022 False ; InstallDate: 20190217</soft>
+<soft> Caption: icecap_collectionresourcesx64 ; InstallDate: 20190516</soft>
+<soft> Caption: Microsoft System CLR Types для SQL Server 2019 CTP2.2 ; InstallDate: 20190215</soft>
+<soft> Caption: Windows SDK ARM Desktop Tools ; InstallDate: 20190326</soft>
+<soft> Caption: vs_clickoncebootstrappermsi ; InstallDate: 20190215</soft>
+<soft> Caption: Microsoft Visual Studio Tools for Applications 2015 x64 Hosting Support ; InstallDate: 20190404</soft>
+<soft> Caption: WPT Redistributables ; InstallDate: 20190507</soft>
+<soft> Caption: Windows SDK for Windows Store Apps ; InstallDate: 20190507</soft>
+<soft> Caption: Microsoft SQL Server 2012 Command Line Utilities  ; InstallDate: 20190215</soft>
+<soft> Caption: IntelliTraceProfilerProxy ; InstallDate: 20190215</soft>
+<soft> Caption: Application Verifier x64 External Package ; InstallDate: 20190507</soft>
+<soft> Caption: Kits Configuration Installer ; InstallDate: 20190507</soft>
+<soft> Caption: Universal General MIDI DLS Extension SDK ; InstallDate: 20190507</soft>
+<soft> Caption: Microsoft .NET Framework 4.6 Targeting Pack ; InstallDate: 20190215</soft>
+<soft> Caption: Конструктор пользовательского интерфейса XAML Microsoft Visual Studio 2015 — RUS ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft Visual C++ 2005 Redistributable - x64 8.0.58298 False ; InstallDate: 20190217</soft>
+<soft> Caption: Microsoft NetStandard SDK ; InstallDate: 20190404</soft>
+<soft> Caption: Windows SDK AddOn ; InstallDate: 20190326</soft>
+<soft> Caption: Windows SDK Desktop Libs x86 ; InstallDate: 20190507</soft>
+<soft> Caption: Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030 ; InstallDate: 20190217</soft>
+<soft> Caption: Windows App Certification Kit x64 ; InstallDate: 20190507</soft>
+<soft> Caption: Autodesk 3ds Max 2019 ; InstallDate: 20190214</soft>
+<soft> Caption: Microsoft Visual C++ 2017 X64 Additional Runtime - 14.20.27323 ; InstallDate: 20190326</soft>
+<soft> Caption: Windows SDK Desktop Libs x86 ; InstallDate: 20190326</soft>
+<soft> Caption: Microsoft ASP.NET Core 2.1.11 Shared Framework (x64) ; InstallDate: 20190516</soft>
+<soft> Caption: Microsoft Visual C++ 2013 x64 Debug Runtime - 12.0.21005 ; InstallDate: 20190404</soft>
+<soft> Caption: Windows Team Extension SDK Contracts ; InstallDate: 20190326</soft>
+<soft> Caption: Microsoft Build Tools Language Resources 14.0 (x86) ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft Visual C++ 2005 Redistributable - x64 8.0.56336 False ; InstallDate: 20190217</soft>
+<soft> Caption: Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40660 False ; InstallDate: 20190217</soft>
+<soft> Caption: Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.60610 False ; InstallDate: 20190217</soft>
+<soft> Caption: vs_Graphics_Singletonx86 ; InstallDate: 20190326</soft>
+<soft> Caption: Microsoft ASP.NET Core Module V2 for IIS Express ; InstallDate: 20190215</soft>
+<soft> Caption: SQL Server 2017 DMF ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729 False ; InstallDate: 20190217</soft>
+<soft> Caption: Windows SDK Desktop Libs arm ; InstallDate: 20190326</soft>
+<soft> Caption: Microsoft .NET Framework 4 Multi-Targeting Pack ; InstallDate: 20190215</soft>
+<soft> Caption: Microsoft Visual C++ 2017 X86 Additional Runtime - 14.20.27323 ; InstallDate: 20190326</soft>
+<soft> Caption: Windows Mobile Extension SDK Contracts ; InstallDate: 20190326</soft>
+<soft> Caption: Windows SDK for Windows Store Apps Libs ; InstallDate: 20190507</soft>
+<soft> Caption: Microsoft Visual C++ 2008 Redistributable - x64 9.0.30411 False ; InstallDate: 20190217</soft>
+<soft> Caption: Microsoft SQL Server Data-Tier Application Framework (x86) - ru-RU ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft Visual C++ 2005 Redistributable - x64 8.0.50727.42 False ; InstallDate: 20190217</soft>
+<soft> Caption: Microsoft Visual Studio Setup Configuration ; InstallDate: 20190215</soft>
+<soft> Caption: Visual Studio 2015 Prerequisites - RUS Language Pack ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft Visual Basic for Applications 7.1 (x64) English ; InstallDate: 20200301</soft>
+<soft> Caption: SQL Server 2017 Common Files ; InstallDate: 20191111</soft>
+<soft> Caption: Autodesk Advanced Material Library Low Resolution Image Library 2019 ; InstallDate: 20190214</soft>
+<soft> Caption: Объекты AMO Microsoft SQL Server 2016  ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4048 False ; InstallDate: 20190217</soft>
+<soft> Caption: Windows SDK for Windows Store Apps Libs ; InstallDate: 20190326</soft>
+<soft> Caption: WinRT Intellisense IoT - Other Languages ; InstallDate: 20190326</soft>
+<soft> Caption: Windows SDK Desktop Headers arm64 ; InstallDate: 20190326</soft>
+<soft> Caption: Объекты Microsoft SQL Server 2014 AMO  ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft TestPlatform SDK Local Feed ; InstallDate: 20190215</soft>
+<soft> Caption: Microsoft .NET Framework 4.5.2 Multi-Targeting Pack ; InstallDate: 20190215</soft>
+<soft> Caption: vs_clickoncesigntoolmsi ; InstallDate: 20190215</soft>
+<soft> Caption: Microsoft Visual C++ 2019 X86 Debug Runtime - 14.20.27508 ; InstallDate: 20190902</soft>
+<soft> Caption: Windows SDK Desktop Libs x64 ; InstallDate: 20190507</soft>
+<soft> Caption: Windows SDK Desktop Tools arm64 ; InstallDate: 20190507</soft>
+<soft> Caption:  ; InstallDate: </soft>
+<soft> Caption: VS Immersive Activate Helper ; InstallDate: 20190215</soft>
+<soft> Caption: Windows SDK Desktop Tools x64 ; InstallDate: 20190326</soft>
+<soft> Caption: Microsoft Azure Storage Emulator - v5.9 ; InstallDate: 20190215</soft>
+<soft> Caption: ClickOnce Bootstrapper Package for Microsoft .NET Framework ; InstallDate: 20190215</soft>
+<soft> Caption: Windows SDK DirectX x64 Remote ; InstallDate: 20190507</soft>
+<soft> Caption: Microsoft .NET Framework 4.6.1 Targeting Pack ; InstallDate: 20190215</soft>
+<soft> Caption: Microsoft Visual C++ 2005 Redistributable - x64 8.0.59192 False ; InstallDate: 20190217</soft>
+<soft> Caption: Microsoft SQL Server 2017 RsFx Driver ; InstallDate: 20191111</soft>
+<soft> Caption: Microsoft Azure Compute Emulator - v2.9.5.3 ; InstallDate: 20190215</soft>
+<soft> Caption: WinRT Intellisense Desktop - en-us ; InstallDate: 20190326</soft>
+<soft> Caption: Google Update Helper ; InstallDate: 20200321</soft>
+<soft> Caption: Windows SDK Modern Versioned Developer Tools ; InstallDate: 20190326</soft>
+<soft> Caption: Microsoft Visual Studio 2015 XAML Designer ; InstallDate: 20190404</soft>
+<soft> Caption: icecap_collection_neutral ; InstallDate: 20190516</soft>
+<soft> Caption: Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.5570 False ; InstallDate: 20190217</soft>
+<soft> Caption: Windows SDK Desktop Headers x86 ; InstallDate: 20190326</soft>
+<soft> Caption: Microsoft Visual C++ 2005 Redistributable - x86 8.0.58299 False ; InstallDate: 20190217</soft>
+<soft> Caption: Windows SDK Desktop Headers x64 ; InstallDate: 20190326</soft>
+<soft> Caption: Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148.0 False ; InstallDate: 20190217</soft>
+<soft> Caption: Universal CRT Extension SDK ; InstallDate: 20190507</soft>
+<soft> Caption: Microsoft Help Viewer 2.2 ; InstallDate: 20190404</soft>
+<soft> Caption: Поставщик Microsoft AS OLE DB для SQL Server 2016 ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664 ; InstallDate: 20190217</soft>
+<soft> Caption: SQL Server 2017 Database Engine Services ; InstallDate: 20191111</soft>
+<soft> Caption: Windows SDK for Windows Store Apps Headers ; InstallDate: 20190326</soft>
+<soft> Caption: vs_filehandler_amd64 ; InstallDate: 20190516</soft>
+<soft> Caption: Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - RUS ; InstallDate: 20191108</soft>
+<soft> Caption: Microsoft .NET Core SDK 2.1.604 (x64) ; InstallDate: 20190516</soft>
+<soft> Caption: Языковой пакет для средства просмотра справки Майкрософт 2.2 - RUS ; InstallDate: 20190404</soft>
+<soft> Caption: Autodesk Material Library Base Resolution Image Library 2019 ; InstallDate: 20190213</soft>
+<soft> Caption: Microsoft Visual C++ 2005 Redistributable - x86 8.0.56336 False ; InstallDate: 20190217</soft>
+<soft> Caption: Microsoft .NET Core Runtime - 2.1.7 (x64) ; InstallDate: 20190215</soft>
+<soft> Caption: SQL Server 2016 Master Data Services ; InstallDate: 20191111</soft>
+<soft> Caption: WinRT Intellisense UAP - en-us ; InstallDate: 20190507</soft>
+<soft> Caption: Microsoft Build Tools 14.0 (amd64) ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729 False ; InstallDate: 20190217</soft>
+<soft> Caption: Microsoft ASP.NET Core 2.1.7 Shared Framework (x64) ; InstallDate: 20190215</soft>
+<soft> Caption: Microsoft Azure Authoring Tools - v2.9.5.3 ; InstallDate: 20190215</soft>
+<soft> Caption: Microsoft Visual C++ 2005 Redistributable - x64 8.0.50727.4053 False ; InstallDate: 20190217</soft>
+<soft> Caption: Microsoft Visual Studio Team Foundation Server 2017 Update 9 Office Integration Language Pack (x64) - ENU ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.50727 False ; InstallDate: 20190217</soft>
+<soft> Caption: Roslyn Language Services - x86 ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft ASP.NET Web Tools Packages 16.0 - ENU ; InstallDate: 20190215</soft>
+<soft> Caption: Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.50727 False ; InstallDate: 20190217</soft>
+<soft> Caption: icecap_collection_x64 ; InstallDate: 20190516</soft>
+<soft> Caption: Microsoft System CLR Types для SQL Server 2019 CTP2.2 ; InstallDate: 20190215</soft>
+<soft> Caption: WinRT Intellisense IoT - en-us ; InstallDate: 20190507</soft>
+<soft> Caption: vs_minshellmsi ; InstallDate: 20190516</soft>
+<soft> Caption: TypeScript SDK ; InstallDate: 20190215</soft>
+<soft> Caption:  Tools for .Net 3.5 - RUS Lang Pack ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030 ; InstallDate: 20190217</soft>
+<soft> Caption: Visual Studio 2015 Prerequisites ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft Visual C++ 2010 Redistributable - x64 10.0.30319 False ; InstallDate: 20190217</soft>
+<soft> Caption: Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.51106 False ; InstallDate: 20190217</soft>
+<soft> Caption: Microsoft Visual C++ 2005 Redistributable - x86 8.0.61001 ; InstallDate: 20190217</soft>
+<soft> Caption: Microsoft ODBC Driver 13 for SQL Server ; InstallDate: 20191111</soft>
+<soft> Caption: Microsoft .NET Framework 4.8 SDK ; InstallDate: 20190507</soft>
+<soft> Caption: Windows IP Over USB ; InstallDate: 20190507</soft>
+<soft> Caption: Autodesk Material Library 2019 ; InstallDate: 20190213</soft>
+<soft> Caption: Windows SDK for Windows Store Apps Tools ; InstallDate: 20190326</soft>
+<soft> Caption: NVIDIA mental ray and IRay feature plugins for 3ds Max 2019 ; InstallDate: 20190214</soft>
+<soft> Caption: Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030 ; InstallDate: 20190217</soft>
+<soft> Caption: SQL Server 2017 XEvent ; InstallDate: 20190404</soft>
+<soft> Caption: SAP Crystal Reports runtime engine for .NET Framework (64-bit) ; InstallDate: 20200301</soft>
+<soft> Caption: Windows SDK Desktop Headers arm ; InstallDate: 20190507</soft>
+<soft> Caption: WinRT Intellisense Desktop - Other Languages ; InstallDate: 20190326</soft>
+<soft> Caption: Microsoft Visual C++ 2017 X86 Minimum Runtime - 14.20.27323 ; InstallDate: 20190326</soft>
+<soft> Caption: vs_SQLClickOnceBootstrappermsi ; InstallDate: 20190215</soft>
+<soft> Caption: Autodesk AutoCAD Performance Feedback Tool 1.3.0 ; InstallDate: 20190213</soft>
+<soft> Caption: SQL Server 2017 Database Engine Services ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft Portable Library Multi-Targeting Pack ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40660 False ; InstallDate: 20190217</soft>
+<soft> Caption: Application Verifier x64 External Package ; InstallDate: 20190326</soft>
+<soft> Caption: Windows App Certification Kit SupportedApiList x86 ; InstallDate: 20190507</soft>
+<soft> Caption: Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148 False ; InstallDate: 20190217</soft>
+<soft> Caption: Microsoft Visual C++ 2010 Redistributable - x86 10.0.30319 False ; InstallDate: 20190217</soft>
+<soft> Caption: vs_networkemulationmsi_x64 ; InstallDate: 20190215</soft>
+<soft> Caption: Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664 ; InstallDate: 20190217</soft>
+<soft> Caption: Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17 False ; InstallDate: 20190217</soft>
+<soft> Caption: Windows IoT Extension SDK ; InstallDate: 20190507</soft>
+<soft> Caption: Windows Desktop Extension SDK ; InstallDate: 20190507</soft>
+<soft> Caption: Autodesk Inventor Server Engine for 3ds Max 2019 ; InstallDate: 20190214</soft>
+<soft> Caption: Microsoft .NET Framework 4.5.1 SDK ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40649 False ; InstallDate: 20190217</soft>
+<soft> Caption: Windows Desktop Extension SDK Contracts ; InstallDate: 20190507</soft>
+<soft> Caption: Windows SDK Modern Versioned Developer Tools ; InstallDate: 20190507</soft>
+<soft> Caption: Microsoft Visual Studio Tools for Applications 2017 x64 Hosting Support ; InstallDate: 20190404</soft>
+<soft> Caption: Windows Team Extension SDK ; InstallDate: 20190507</soft>
+<soft> Caption: Universal General MIDI DLS Extension SDK ; InstallDate: 20190326</soft>
+<soft> Caption: Microsoft Visual Studio Tools for Applications 2015 Finalizer ; InstallDate: 20190404</soft>
+<soft> Caption: Windows SDK for Windows Store Apps DirectX x86 Remote ; InstallDate: 20190507</soft>
+<soft> Caption: Microsoft Visual C++ 2008 Redistributable - x86 9.0.30411 False ; InstallDate: 20190217</soft>
+<soft> Caption: Microsoft .NET Framework 4.7.2 Targeting Pack ; InstallDate: 20190215</soft>
+<soft> Caption: Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030 ; InstallDate: 20190217</soft>
+<soft> Caption: Windows SDK Desktop Libs arm64 ; InstallDate: 20190507</soft>
+<soft> Caption: VMware Workstation ; InstallDate: 20190303</soft>
+<soft> Caption: SQL Server Integration Services Singleton ; InstallDate: 20190404</soft>
+<soft> Caption: Windows SDK Desktop Headers x64 ; InstallDate: 20190507</soft>
+<soft> Caption: Windows SDK Modern Non-Versioned Developer Tools ; InstallDate: 20190507</soft>
+<soft> Caption: vcpp_crt.redist.clickonce ; InstallDate: 20190215</soft>
+<soft> Caption: Arena 16.00.00002  (64 Bit) ; InstallDate: 20200301</soft>
+<soft> Caption: Ресурсы оболочки Microsoft Visual Studio 2015 Shell (минимальной) ; InstallDate: 20190404</soft>
+<soft> Caption: vs_professionalmsi ; InstallDate: 20190215</soft>
+<soft> Caption: Microsoft SQL Server 2016 Setup (English) ; InstallDate: 20191111</soft>
+<soft> Caption: Microsoft Visual Studio 2015 Shell (Isolated) ; InstallDate: 20190404</soft>
+<soft> Caption: Windows App Certification Kit Native Components ; InstallDate: 20190507</soft>
+<soft> Caption: Microsoft Visual Studio Tools for Applications 2015 x86 Hosting Support ; InstallDate: 20190404</soft>
+<soft> Caption: vcpp_crt.redist.clickonce ; InstallDate: 20190516</soft>
+<soft> Caption: Microsoft System CLR Types для SQL Server 2014 ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148.0 False ; InstallDate: 20190217</soft>
+<soft> Caption: Microsoft Visual C++ 2005 Redistributable - x86 8.0.51011 False ; InstallDate: 20190217</soft>
+<soft> Caption: Microsoft .NET Core Host FX Resolver - 2.1.7 (x64) ; InstallDate: 20190215</soft>
+<soft> Caption: Ресурсы оболочки Microsoft Visual Studio 2015 (изолированной) ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft Visual Studio Tools for Applications 2017 x86 Hosting Support ; InstallDate: 20190404</soft>
+<soft> Caption: vs_enterprisemsi ; InstallDate: 20190215</soft>
+<soft> Caption: Microsoft SQL Server 2016 LocalDB  ; InstallDate: 20190215</soft>
+<soft> Caption: Windows SDK Desktop Headers arm64 ; InstallDate: 20190507</soft>
+<soft> Caption: vs_codecoveragemsi ; InstallDate: 20190215</soft>
+<soft> Caption: Windows SDK Desktop Headers x86 ; InstallDate: 20190507</soft>
+<soft> Caption: vs_communitymsi ; InstallDate: 20190516</soft>
+<soft> Caption: Windows SDK for Windows Store Apps Metadata ; InstallDate: 20190326</soft>
+<soft> Caption: Microsoft ASP.NET Web Tools Packages 16.0 - RUS ; InstallDate: 20190215</soft>
+<soft> Caption: IIS 10.0 Express ; InstallDate: 20190215</soft>
+<soft> Caption: DiagnosticsHub_CollectionService ; InstallDate: 20190516</soft>
+<soft> Caption: Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17 False ; InstallDate: 20190217</soft>
+<soft> Caption: Microsoft Visual Studio Tools for Applications 2015 Language Support ; InstallDate: 20190404</soft>
+<soft> Caption: Windows SDK Desktop Libs x64 ; InstallDate: 20190326</soft>
+<soft> Caption: Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.0 False ; InstallDate: 20190217</soft>
+<soft> Caption: Windows SDK Desktop Libs arm ; InstallDate: 20190507</soft>
+<soft> Caption: Entity Framework 6.2.0 Tools  for Visual Studio 2017 ; InstallDate: 20190215</soft>
+<soft> Caption: Накопительный пакет обновления Microsoft .NET Framework Intellisense для Visual Studio (Русский) ; InstallDate: 20190215</soft>
+<soft> Caption: Java Auto Updater ; InstallDate: 20190626</soft>
+<soft> Caption: Windows SDK Signing Tools ; InstallDate: 20190326</soft>
+<soft> Caption: WinRT Intellisense Mobile - en-us ; InstallDate: 20190507</soft>
+<soft> Caption: Windows SDK for Windows Store Apps Headers ; InstallDate: 20190507</soft>
+<soft> Caption: Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.51106 False ; InstallDate: 20190217</soft>
+<soft> Caption: Microsoft Visual C++ 2005 Redistributable - x86 8.0.50727.42 False ; InstallDate: 20190217</soft>
+<soft> Caption: Autodesk Advanced Material Library Medium Resolution Image Library 2019 ; InstallDate: 20190214</soft>
+<soft> Caption: Universal CRT Redistributable ; InstallDate: 20190507</soft>
+<soft> Caption: Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022.218 False ; InstallDate: 20190217</soft>
+<soft> Caption: SQL Server 2017 Database Engine Shared ; InstallDate: 20190404</soft>
+<soft> Caption: Microsoft .NET Core Host FX Resolver - 2.1.11 (x64) ; InstallDate: 20190516</soft>
+<soft> Caption: WinAppDeploy ; InstallDate: 20190507</soft>
+<soft> Caption: Windows Team Extension SDK Contracts ; InstallDate: 20190507</soft>
+<soft> Caption: WinRT Intellisense PPI - Other Languages ; InstallDate: 20190326</soft>
+<soft> Caption: AutoCAD 2019 ; InstallDate: 20190213</soft>
+<soft> Caption: ACAD Private ; InstallDate: 20190213</soft>
+<soft> Caption: AutoCAD 2019 Language Pack - English ; InstallDate: 20190213</soft>
+<soft> Caption: AutoCAD 2019 - English ; InstallDate: 20190213</soft>
+<soft> Caption: ACA & MEP 2019 Object Enabler ; InstallDate: 20190213</soft>
+<soft> Caption: WinRT Intellisense Desktop - Other Languages ; InstallDate: 20190507</soft>
+<soft> Caption: Windows Mobile Extension SDK ; InstallDate: 20190326</soft>
+<soft> Caption: Active Directory Authentication Library for SQL Server ; InstallDate: 20190215</soft>
